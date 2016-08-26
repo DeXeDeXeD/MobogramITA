@@ -599,7 +599,7 @@
   <string name="InviteToGroupByLink">Invita nel gruppo via Link</string>
   <string name="InviteToGroupError">Spiacenti, non puoi aggiungere questo utente al gruppo a causa delle sue impostazioni di privacy.</string>
   <string name="InviteUser">Questo utente non ha ancora Telegram, vuoi invitarlo?</string>
-  <string name="IsRecordingAudio">%%1$s sta registrando un audio...</string>
+  <string name="IsRecordingAudio">%1$s sta registrando un audio...</string>
   <string name="IsSendingAudio">%1$s sta inviando un audio...</string>
   <string name="IsSendingFile">%1$s sta inviando un file...</string>
   <string name="IsSendingPhoto">%1$s sta inviando una foto...</string>
