@@ -25,7 +25,7 @@
   <string name="ArchivedStickers">Sticker archiviati</string>
   <string name="ArchivedStickersEmpty">Nessuno sticker archiviato</string>
   <string name="ArchivedStickersInfo">Puoi avere fino a 200 set di sticker installati. Gli sticker non usati saranno archiviati quando ne aggiungerai altri.</string>
-  <string name="ArchivedStickersAlertTitle">Sticher archiviati</string>
+  <string name="ArchivedStickersAlertTitle">Sticker archiviati</string>
   <string name="ArchivedStickersAlertInfo">Alcuni dei tuoi set di sticker più vecchi sono stati stati archiviati. Puoi riattivarli nelle impostazioni degli sticker.</string>
   <string name="SecondsBold_zero"><![CDATA[<b>%1$d</b>]]> secondi</string>
   <string name="SecondsBold_one"><![CDATA[<b>%1$d</b>]]> secondo</string>
