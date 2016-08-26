@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Traduzione per MOBOGRAM 1.0 revisionata da @DeXeD in collaborazione con @IATAlliance e @OpenTelegramItalia -->
-<!-- Traduzione possibile grazie al lavoro degli admin di @OpenTelegramItalia, LUKE (@ReasonableHumans) e Fantaknight (@fantaknightschannel). Grazie ragazzi! -->
-<!-- Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @mobogramfanclub o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente-->
+<!--Traduzione per MOBOGRAM 1.0 revisionata da @DeXeD in collaborazione con @IATAlliance e @OpenTelegramItalia-->
+<!--Traduzione possibile grazie al lavoro degli admin di @OpenTelegramItalia, LUKE (@ReasonableHumans) e Fantaknight (@fantaknightschannel). Grazie ragazzi!-->
+<!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @mobogramfanclub o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente-->
 <resources>
 <!--3.11.1 (parziali)-->
   <string name="CancelAccountReset">Annulla ripristino account</string>
