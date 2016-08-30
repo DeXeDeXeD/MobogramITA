@@ -100,8 +100,8 @@
   <string name="ActionCreateMega">Gruppo creato</string>
   <string name="ActionInviteUser">un1 si è unito al gruppo tramite link di invito</string>
   <string name="ActionInviteYou">Hai accettato l\'invito</string>
-  <string name="ActionKickUser">un1 ha kickato un2</string>
-  <string name="ActionKickUserYou">un1 ti ha kickato</string>
+  <string name="ActionKickUser">un1 ha rimosso un2</string>
+  <string name="ActionKickUserYou">un1 ti ha rimosso</string>
   <string name="ActionLeftUser">un1 ha abbandonato il gruppo</string>
   <string name="ActionMigrateFromGroup">Gruppo aggiornato a supergruppo</string>
   <string name="ActionMigrateFromGroupNotify">%1$s è stato aggiornato a supergruppo</string>
@@ -123,7 +123,7 @@
   <string name="ActionYouChangedPhoto">Hai cambiato la foto del gruppo</string>
   <string name="ActionYouChangedTitle">Hai rinominato il gruppo in: un2</string>
   <string name="ActionYouCreateGroup">Hai creato il gruppo</string>
-  <string name="ActionYouKickUser">Hai kickato un2</string>
+  <string name="ActionYouKickUser">Hai rimosso un2</string>
   <string name="ActionYouLeftUser">Hai abbandonato il gruppo</string>
   <string name="ActionYouRemovedPhoto">Hai eliminato la foto del gruppo</string>
   <string name="Add">Aggiungi</string>
