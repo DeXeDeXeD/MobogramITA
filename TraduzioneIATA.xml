@@ -437,7 +437,7 @@
   <string name="EditMessageError">Spiacenti, non puoi modificare questo messaggio.</string>
   <string name="EditName">Modifica nome</string>
   <string name="EditVideo">Modifica video</string>
-  <string name="EditedMessage">modificato</string>
+  <string name="EditedMessage">mod.</string>
   <string name="EditedVideo">Video modificato</string>
   <string name="EmailPasswordConfirmText">Segui questi step per completare la configurazione della verifica in due passaggi:\n\n1. Controlla la tua e-mail (anche lo spam)\n%1$s\n\n2. Clicca sul link di conferma.</string>
   <string name="EmpryUsersPlaceholder">Aggiungi utenti</string>
