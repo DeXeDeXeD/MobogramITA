@@ -1249,6 +1249,7 @@
   <string name="AccessingMethodDetail">Per accedere alle tue chat nascoste, tieni premuto sull\'elemento selezionato ed inserisci la password nel campo vuoto.</string>
   <string name="AddChatToCategory">Aggiungi chat alla categoria</string>
   <string name="AddContactHelp">Inserisci il numero con il prefisso del Paese, senza zeri all\'inizio.\n\nQuesto utente deve avere Telegram per poter essere aggiunto alla lista dei contatti.</string>
+  <string name="AddSecretChatToDialogDmAlert">Le chat segrete non sono supportate</string>
   <string name="AddToCategory">Aggiungi ad una categoria</string>
   <string name="AddToDialogDm">Aggiungi al gestore download</string>
   <string name="AddToDownloadList">Aggiungi alla lista Download</string>
@@ -1257,6 +1258,7 @@
   <string name="AddToHiddens">Nascondi</string>
   <string name="AddToSpecificContacts">Aggiungi ai contatti specifici</string>
   <string name="AddUser">Aggiungi account</string>
+  <string name="AdvanceThemeApplied">"Tema Avanzato applicato! \nPer favore riavvia l'applicazione. \n\nPuoi scegliere uno dei temi semplici cliccando su Menu - Temi</string>
   <string name="Afsaneh">Afsane -UT</string>
   <string name="All">Tutto</string>
   <string name="AllChanges">Tutto</string>
@@ -1329,9 +1331,12 @@
   <string name="DeleteChatMarker">Elimina segnalibro</string>
   <string name="DeleteCompletedDownloads">Elimina tutti i download completati</string>
   <string name="DeleteContactPlaceholder">Elimina contatti...</string>
+  <string name="DeleteFileOnDeleteMessage">Elimina media/file nell'eliminazione dei messaggi</string>
+  <string name="DeleteFileOnDeleteMessageDetail">Di default quando elimini un messaggio saranno cancellati dalla memoria anche i media/file correlati. Durante la rimozione puoi disabilitare questa opzione.</string>
   <string name="DeleteMultiMessage">Elimina più messaggi</string>
   <string name="DeleteMultiMessageAlert">Eliminazione multipla dei messaggi attivata.\nSeleziona due messaggi, tutti quelli compresi tra questi saranno eliminati.</string>
   <string name="DeleteMultiMessageSelectedOne">Primo messaggio selezionato, seleziona il prossimo.</string>
+  <string name="DeleteRelativeMediaFromMemory">Elimina media/file dalla memoria</string>
   <string name="DeleteSelectedContactChatsAlert">Sei sicuro di voler eliminare le chat private selezionate?</string>
   <string name="DeleteSelectiveContactChats">Elimina più chat private</string>
   <string name="DeviceFont">Font del dispositivo</string>
@@ -1341,6 +1346,7 @@
   <string name="DontCloseLastChatOnJoinNewChat">Mantieni navigazione chat</string>
   <string name="DontCloseLastChatOnJoinNewChatDetail">Cliccando su un link di invito o un username, non chiude la chat corrente.</string>
   <string name="Download">Download</string>
+  <string name="DownloadAdvanceTheme">Download Tema Avanzato</string>
   <string name="DownloadCountExceedMessage">I file devono essere meno di 150, rimuovine qualcuno o togli quelli completati con l\'apposita opzione.</string>
   <string name="DownloadFileProgress">Coda: %1$s - File corrente: %2$s</string>
   <string name="DownloadListEmpty">La lista dei download è vuota.\nPer aggiungere file, premi nello spazio vuoto a fianco ai messaggi e seleziona \'aggiungi alla lista download\'.</string>
@@ -1453,6 +1459,7 @@
   <string name="MenuItemsOrderAndVisibilityHelp">Clicca sul menu strumenti per cambiarne l\'aspetto.\n\nTieni premuto sul menu strumenti e fai uno swipe in basso o in alto per cambiarne l\'ordine.</string>
   <string name="MenuSettings">Menu laterale</string>
   <string name="MoboDeleteContacts">Elimina contatti</string>
+  <string name="MoboPlus">MoboPlus</string>
   <string name="MoboSettings">Opzioni avanzate</string>
   <string name="MobogramDownloadService">Servizio gestore download</string>
   <string name="MobogramSpecificContact">Contatti Specifici</string>
