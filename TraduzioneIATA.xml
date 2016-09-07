@@ -1485,6 +1485,7 @@
   <string name="NoFavoriteEmoji">Nessuna emoji preferita\nPer aggiungerle tieni premuto su di esse.</string>
   <string name="NoFavoriteHelp">Nessuna chat preferita\nPer aggiungerle tieni premuto su una chat, poi premi \'Aggiungi ai preferiti\'.</string>
   <string name="NoGroupsHelp">Non sei in nessun gruppo</string>
+  <string name="NoPrefErrorMsg">Nessun file preferito trovato in %s</string>
   <string name="NoRecentChats">Ancora nessuna chat recente...</string>
   <string name="NoSelectedTab">Nessuna selezione effettuata</string>
   <string name="NoSpecificContact">Nessun contatto specifico.\nAggiungi contatti con il pulsante in alto a destra.</string>
@@ -1508,6 +1509,7 @@
   <string name="Orange">Arancione</string>
   <string name="OtherApps">Altre app (crash)</string>
   <string name="OtherSettings">Altre impostazioni</string>
+  <string name="PhoneContacts">Contatti telefonici</string>
   <string name="PhoneNumber">Numero di telefono (necessario)</string>
   <string name="Photos">Foto</string>
   <string name="Pink">Rosa</string>
@@ -1653,6 +1655,9 @@
   <string name="about_title_contact_us">Contattaci</string>
   <string name="about_title_mail_us">info@iata.ovh</string>
   <string name="about_title_powered_by">Powered by IATA</string>
+  <string name="added_photo">Ha aggiunto una foto al profilo</string>
+  <string name="added_you">Ti ha aggiunto ai suoi contatti</string>
+  <string name="change_mutual">Aggiunto/rimosso dai contatti</string>
   <string name="change_name">Modifiche al nome</string>
   <string name="change_phone">Modifiche al numero di telefono</string>
   <string name="change_photo">Modifiche alle foto</string>
@@ -1668,17 +1673,22 @@
   <string name="new_phone">Nuovo numero di telefono:</string>
   <string name="old_name">Vecchio nome:</string>
   <string name="old_phone">Vecchio numero di telefono:</string>
+  <string name="removed_all_photos">Rimosse tutte le sue foto</string>
+  <string name="removed_photo">Rimossa foto dal profilo</string>
+  <string name="removed_you">Ti ha rimosso dai suoi contatti</string>
   <string name="send_email">Manda mail via...</string>
   <string name="send_message_in_telegram">Manda nuovo messaggio</string>
   <string name="show_user_photos">Mostra foto profilo</string>
   <string name="orientation">verticale</string>
   <string name="AccessToHiddenChatsHelp">Per accedere alle chat nascoste:\n %s \n\nPer cambiare la modalità di accesso alle chat nascoste vai nelle impostazioni chat nascoste.</string>
   <string name="AutoSyncHelp">In Mobogram la sincronizzazione della rubrica è disabilitata di default.\nSi può attivare questa funzione nelle impostazioni di Mobogram.</string>
+  <string name="BubbleStyle">Bubble style</string>
   <string name="CategoryListHelp">Con questa funzione, è possibile ordinare le chat.\nAd esempio, è possibile creare una cartella \'News\' e inserirci tutti i canali di notizie.\nPer aggiungere una categoria, clicca sul pulsante \'nuova categoria\' in alto a destra.\nPer modificare, eliminare, ridisporre, aggiungere o rimuovere le chat dalle categorie tieni premuto su di esse dalla lista e poi seleziona la relativa opzione.</string>
   <string name="ChangeThemeColorHelp">Per cambiare il colore del tema:\nselezionare uno dei temi o scegliere un colore personale.</string>
   <string name="ChannelMessage">Entra in @OpenTelegramItalia e segui @IATAlliance</string>
   <string name="ChatBarHelp">Con la barra delle chat puoi chattare senza tornare ogni volta alla lista delle chat; ti basta cliccare su una chat nella barra e poi utilizzare il pulsante indietro (o scorrere verso destra) per tornare alla chat precedente.\n\nPer personalizzare la barra vai nelle impostazioni di Mobogram --> Barra chat recenti.</string>
   <string name="ChatMarkerHelp">In ogni conversazione è possibile marcare un messaggio (come un segnalibro), cliccando su \'Vai al segnalibro\' dal menu in alto a destra, verrete portati a quel messaggio per continuare la lettura dei messaggi da dove eravate rimasti.\nIl segnalibro precedente verrà rimosso.</string>
+  <string name="CheckStyle">Check style</string>
   <string name="ClearCacheFolderHelp">In Mobogram è stato aggiunta la possibilità di cancellare i file della cache quando questi superano i 1500, apparirà un\'icona nella barra in alto.</string>
   <string name="ClearCacheHelp">In Mobogram non appena la dimensione della cache supera i 5 MB, viene aggiunta un\'opzione alla barra in alto (non è chiaro dove) per eliminare la cache.</string>
   <string name="DialogDmDetailHelp">Per ogni conversazione puoi determinare quanti e quali tipi di messaggi file scaricare.\n\nAd esempio se imposti:\n- Ultimi 50 messaggi\n- GIF, Video\n\nAllora gli ultimi 50 messaggi saranno disponibili, e da questi verranno scaricati GIF e video.\n\nPer salvare le modifiche clicca in alto a destra.</string>
@@ -1687,7 +1697,7 @@
   <string name="DownloadManagerDownloadSwithBtnHelp">Per uscire da questa pagina senza fermare il download, avvia il servizio download.</string>
   <string name="DownloadManagerHelp">Qui puoi mettere in lista tutti i tuoi download e controllarne i progressi.</string>
   <string name="DownloadMobo2">Scarica gratis Mobogram 2</string>
-  <string name="DownloadMobo2Help">Questa feature ti permette di avere sulla stessa app 2 account Telegram distinti, per usufruirne devi scaricare gratis anche Mobogram2, chiedi in https://telegram.me/OpenTelegramItalia @OpenTelegramItalia, saremo lieti di darti una mano.</string>
+  <string name="DownloadMobo2Help">Questa feature ti permette di avere due account Telegram distinti. Per usufruirne devi scaricare gratis Mobogram 2, chiedi in @OpenTelegramItalia e saremo lieti di darti una mano.</string>
   <string name="DrawingCleanerHelp">Cancella tutto, lascia solo il colore di sfondo.</string>
   <string name="DrawingHelp">- Per modificare il colore di sfondo tieni premuto il colore desiderato;\n- Per modificare la dimensione dei caratteri sulle opzioni a sinistra tieni premuto sui pulsanti a sinistra;\n- Clicca l\'icona in alto a sinistra, per la modalità a schermo intero.</string>
   <string name="FavoriteStickersTabHelp">Per aggiungere o rimuovere gli sticker preferiti, tieni premuta l\'icona del cuore.\nPer rimuovere la scheda preferiti vai sulle impostazioni di Mobogram --> Chat.</string>
