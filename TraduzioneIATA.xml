@@ -1476,8 +1476,7 @@
   <string name="NewContact">Nuovo contatto</string>
   <string name="NoBotsHelp">Nessun bot</string>
   <string name="NoCategories">Nessuna categoria</string>
-  <string name="NoCategoryHelp">Ancora nessuna categoria...\nCrea una categoria premendo 
-il pulsante \'Nuova categoria\' nell\'angolo in alto a destra. \nCon questa feature puoi catalogare i tuoi canali e gruppi. \nPer esempio, puoi creare la categoria \'News\' ed inserire in essa tutti i canali relativi alle notizie.</string>
+  <string name="NoCategoryHelp">Ancora nessuna categoria...\nCrea una categoria premendo il pulsante \'Nuova categoria\' nell\'angolo in alto a destra. \nCon questa feature puoi catalogare i tuoi canali e gruppi. \nPer esempio, puoi creare la categoria \'News\' ed inserire in essa tutti i canali relativi alle notizie.</string>
   <string name="NoChannelsHelp">Non sei sintonizzato su nessun canale</string>
   <string name="NoContactChanges">Non c\'è ancora nessun aggiornamento</string>
   <string name="NoCreatorAdminHelp">Non sei il creatore o admin di nessun gruppo o canale.</string>
