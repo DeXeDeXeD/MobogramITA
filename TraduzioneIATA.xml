@@ -1444,7 +1444,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="MyChats">I miei gruppi/canali</string>
   <string name="NameOrUsername">Cerca nome o username</string>
   <string name="Nastalig"> -UT</string>
-  <string name="NewArchiveCategory">(Nuova categoria)</string>
+  <string name="NewArchiveCategory">Nuova categoria</string>
   <string name="NewCategory">Nuova categoria</string>
   <string name="NewChat">Nuova chat</string>
   <string name="NewContact">Nuovo contatto</string>
@@ -1466,7 +1466,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="NoUnreadHelp">Nessun messaggio \'da leggere\'</string>
   <string name="NotCategorized">Senza categoria</string>
   <string name="NotCategorizedMessages">Messaggi senza categoria</string>
-  <string name="NotCategorizedParan">(Senza categoria)</string>
+  <string name="NotCategorizedParan">Senza categoria</string>
   <string name="NotDownloaded">Non scaricato</string>
   <string name="NotSendReadState">Non inviare la seconda spunta</string>
   <string name="NotSendReadStateDetail">Leggi i messaggi senza mostrare la seconda spunta al tuo interlocutore.\nI messaggi saranno nuovamente mostrati come \'da leggere\' dopo un po\'.\nNota: questa opzione non vale se la modalità fantasma è attiva.</string>
