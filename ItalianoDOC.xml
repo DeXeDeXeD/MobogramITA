@@ -1509,7 +1509,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="RemoveFromCategory">Rimuovi dalla categoria %1$s</string>
   <string name="RemoveFromFavorites"> Rimuovi dai preferiti</string>
   <string name="RemoveFromHiddens">Rendi visibile</string>
-  <string name="RemoveMessageFromCategory">Rimmuovi messaggio dalla categoria</string>
+  <string name="RemoveMessageFromCategory">Rimuovi messaggio dalla categoria</string>
   <string name="RemoveMessageFromThisCategory">Rimuovi messaggio dalla categoria %s</string>
   <string name="ReportProblemHelp">Aiuto</string>
   <string name="RestartForApplyChanges">L\'app verrà riavviata per applicare i cambiamenti.</string>
