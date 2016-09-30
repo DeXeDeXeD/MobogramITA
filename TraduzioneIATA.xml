@@ -1220,7 +1220,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="AllGroups">Tutti i gruppi</string>
   <string name="AllMessages">Tutti i messaggi</string>
   <string name="AppName">Mobogram</string>
-  <string name="ArchiveFeature">Possibilità di messaggi preferiti -UC</string>
+  <string name="ArchiveFeature">Gestione avanzata messaggi preferiti</string>
   <string name="ArchiveForwardWithoutQuoting">Inoltra senza citare</string>
   <string name="ArchiveForwardWithoutQuotingDetail">Quando segni un messaggio come preferito, sarà inoltrato a te stesso. Puoi modificare l'opzione di inoltro per togliere la citazione.</string>
   <string name="ArchiveHelp">\"Puoi archiviare i tuoi messaggi preferiti. \n\nQuesti messaggi saranno inoltrati a te stesso. \n\nInviando messaggi a te stesso, li salvi nei server di Telegram e saranno disponibili per sempre anche reinstallando l'app. \n\nÈ anche possibile classificare i messaggi nelle tue categorie preferite per organizzarli. \n\nPer creare una nuova categoria, premi il pulsante in alto a destra. \n\nTieni premuto su una categoria e trascinala in alto o in basso per cambiarne l'ordine.\"</string>
