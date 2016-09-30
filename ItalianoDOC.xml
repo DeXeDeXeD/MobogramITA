@@ -1422,7 +1422,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="MarkAllDialogsAsReadAlert">Segnare tutti i messaggi di questa scheda come letti? </string>
   <string name="MarkAllDialogsAsReadGhostModeAlert">Nota: la modalità fantasma è disabilitata.</string>
   <string name="MarkAsRead">Segna come letto</string>
-  <string name="MarkAsReadInPopup">Segna come letto nel popup -UC</string>
+  <string name="MarkAsReadInPopup">Segna come letto nel popup</string>
   <string name="MarkAsReadInPopupDetail">Segna un messaggio come letto quando viene mostrato nel popup.</string>
   <string name="Media">Media</string>
   <string name="MediaCaption">Didascalia del file</string>
