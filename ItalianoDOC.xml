@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Traduzione per Mobogram by @IATAlliance revisionata da @DeXeD in collaborazione con @OpenTelegramItalia-->
+<!--Traduzione per Mobogram by @DeXeD in collaborazione con @OpenTelegramItalia-->
 <!--Traduzione possibile grazie al lavoro degli admin di @OpenTelegramItalia, LUKE (@ReasonableHumans) e Fantaknight (@fantaknightschannel). Grazie ragazzi!-->
 <!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @mobogramfanclub o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente.
 La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/MobogramITA-->
@@ -1650,11 +1650,11 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="YouMustSelectAtLeastOne">Devi selezionarne almeno una.</string>
   <string name="about_channel">@IATAlliance</string>
   <string name="about_comment">Italian Admin Telegram Alliance</string>
-  <string name="about_content_rights_reserved">Copyright © 2016 IATA</string>
+  <string name="about_content_rights_reserved">CC BY-SA</string>
   <string name="about_products">Altre app</string>
   <string name="about_title_contact_us">Contattaci</string>
   <string name="about_title_mail_us">info@iata.ovh</string>
-  <string name="about_title_powered_by">Powered by IATA</string>
+  <string name="about_title_powered_by">Powered by Telegram</string>
   <string name="added_photo">Ha aggiunto una foto al profilo</string>
   <string name="added_you">Ti ha aggiunto ai suoi contatti</string>
   <string name="button_back">Indietro</string>
@@ -1698,7 +1698,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="BubbleStyle">Bubble style</string>
   <string name="CategoryListHelp">Con questa funzione, è possibile ordinare le chat.\nAd esempio, è possibile creare una cartella \'News\' e inserirci tutti i canali di notizie.\nPer aggiungere una categoria, clicca sul pulsante \'nuova categoria\' in alto a destra.\nPer modificare, eliminare, ridisporre, aggiungere o rimuovere le chat dalle categorie tieni premuto su di esse dalla lista e poi seleziona la relativa opzione.</string>
   <string name="ChangeThemeColorHelp">Per cambiare il colore del tema:\nselezionare uno dei temi o scegliere un colore personale.</string>
-  <string name="ChannelMessage">Entra in @OpenTelegramItalia e segui @IATAlliance</string>
+  <string name="ChannelMessage">Entra in @OpenTelegramItalia</string>
   <string name="ChatBarHelp">Con la barra delle chat puoi chattare senza tornare ogni volta alla lista delle chat; ti basta cliccare su una chat nella barra e poi utilizzare il pulsante indietro (o scorrere verso destra) per tornare alla chat precedente.\n\nPer personalizzare la barra vai nelle impostazioni di Mobogram --> Barra chat recenti.</string>
   <string name="ChatMarkerHelp">In ogni conversazione è possibile marcare un messaggio (come un segnalibro), cliccando su \'Vai al segnalibro\' dal menu in alto a destra, verrete portati a quel messaggio per continuare la lettura dei messaggi da dove eravate rimasti.\nIl segnalibro precedente verrà rimosso.</string>
   <string name="CheckStyle">Check style</string>
@@ -1744,7 +1744,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ShowThisUserMessagesHelp">Per visualizzare solo i messaggi di uno specifico utente, tieni premuto sulla sua foto.</string>
   <string name="SpecificContactHelp">Per permettere a Mobogram di vedere lo stato dei contatti specifici devi condividere con loro l\'ultimo accesso (altrimenti potrai vedere se sono in linea solo mentre scrivono qualcosa a te o in un gruppo).</string>
   <string name="ThisContactWasSelectedBefore">Questo contatto è già stato selezionato</string>
-  <string name="WelcomeMessage">Benvenuto\nTi ringrazio per aver scelto questa traduzione, revisionata da @IATAlliance partendo dal lavoro di @OpenTelegramItalia e Fantaknight.</string>
+  <string name="WelcomeMessage">Benvenuto\nTi ringrazio per aver scelto questa traduzione, revisionata da @DeXeD partendo dal lavoro di @OpenTelegramItalia e Fantaknight.</string>
   <string name="auth_google_play_services_client_facebook_display_name">FACEBOOK</string>
   <string name="auth_google_play_services_client_google_display_name">Google</string>
   <string name="client_protocol_exception">client protocol exception</string>
