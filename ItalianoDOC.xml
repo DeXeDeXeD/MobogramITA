@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Traduzione per Mobogram by @DeXeD in collaborazione con @OpenTelegramItalia-->
 <!--Traduzione possibile grazie al lavoro degli admin di @OpenTelegramItalia, LUKE (@ReasonableHumans) e Fantaknight (@fantaknightschannel). Grazie ragazzi!-->
-<!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @mobogramfanclub o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente.
+<!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @clientdipendenti o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente.
 La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/MobogramITA-->
 <resources>
   <string name="common_google_play_services_api_unavailable_text">%1$s richiede uno o più Google Play services che non sono attualmente disponibili. Per favore contatta lo sviluppatore per assistenza.</string>
