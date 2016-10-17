@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Traduzione per Mobogram by @DeXeD in collaborazione con @OpenTelegramItalia-->
 <!--Traduzione possibile grazie al lavoro degli admin di @OpenTelegramItalia, LUKE (@ReasonableHumans) e Fantaknight (@fantaknightschannel). Grazie ragazzi!-->
-<!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @clientdipendenti o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente.
+<!--Le parti non tradotte sono etichettate con -UT (untranslated), quelle non chiare con -UC (unclear). Se ritenete di poter aiutare questa traduzione ad essere migliore, entrate su @mobogramfanclub o contattate @DeXeD e fornite i suggerimenti, oppure modificatela direttamente.
 La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/MobogramITA-->
 <resources>
   <string name="common_google_play_services_api_unavailable_text">%1$s richiede uno o più Google Play services che non sono attualmente disponibili. Per favore contatta lo sviluppatore per assistenza.</string>
@@ -50,8 +50,8 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ActionCreateChannel">Canale creato</string>
   <string name="ActionCreateGroup">un1 ha creato il gruppo</string>
   <string name="ActionCreateMega">Gruppo creato</string>
-  <string name="ActionInviteUser">un1 si è unito al gruppo via link di invito</string>
-  <string name="ActionInviteYou">Ti sei unito al gruppo via link di invito</string>
+  <string name="ActionInviteUser">un1 si è unito al gruppo tramite link di invito</string>
+  <string name="ActionInviteYou">Ti sei unito al gruppo tramite link di invito</string>
   <string name="ActionKickUser">un1 ha rimosso un2</string>
   <string name="ActionKickUserYou">un1 ti ha rimosso</string>
   <string name="ActionLeftUser">un1 ha lasciato il gruppo</string>
@@ -143,7 +143,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="AreYouSureShareMyContactInfoUser">Sicuro di voler condividere il tuo numero di telefono %1$s con <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>?</string>
   <string name="AreYouSureUnblockContact">Vuoi sbloccare questo contatto?</string>
   <string name="AskAQuestion">Fai una domanda</string>
-  <string name="AskAQuestionInfo">Nota che il supporto di Telegram è fornito da volontari. Proviamo a rispondere quanto prima, ma potrebbe volerci del tempo.<![CDATA[<br><br>]]>Dai un\'occhiata alle <![CDATA[<a href=\"https://telegram.org/faq/it#domande-generali\">Domande frequenti di Telegram</a>]]>: contengono risposte a quasi tutte le domande e suggerimenti importanti per <![CDATA[<a href=\"https://telegram.org/faq/it#risoluzione-dei-problemi\">risolvere i  problemi</a>]]>.</string>
+    <string name="AskAQuestionInfo">Nota che il supporto di Telegram è fornito da volontari. Proviamo a rispondere quanto prima, ma potrebbe volerci del tempo.<![CDATA[<br><br>]]>Dai un\'occhiata alle <![CDATA[<a href=\"https://telegram.org/faq/it#domande-generali\">Domande frequenti di Telegram</a>]]>: contengono suggerimenti importanti per <![CDATA[<a href=\"https://telegram.org/faq/it#risoluzione-dei-problemi\">risolvere i  problemi</a>]]> e risposte a quasi tutte le domande.</string>
   <string name="AskButton">Chiedi a un volontario</string>
   <string name="AttachAudio">Messaggio vocale</string>
   <string name="AttachBotsHelp">Scorri verso il basso per i bot</string>
@@ -203,7 +203,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ChangePhoneHelp">Invieremo un SMS con un codice di conferma al tuo nuovo numero.</string>
   <string name="ChangePhoneNewNumber">Nuovo numero</string>
   <string name="ChangePhoneNumberOccupied">Il numero %1$s è già connesso a un account Telegram. Per favore elimina quell\'account prima di migrare ad un nuovo numero.</string>
-  <string name="ChangePublicLimitReached">Spiacenti, hai creato troppi link pubblici. Prova a eliminarne o a rendere qualche gruppo o canale privato.</string>
+  <string name="ChangePublicLimitReached">Spiacenti, hai riservato troppi username pubblici. Puoi revocare il link da uno dei tuoi gruppi o canali più vecchi, o creare invece delle entità private.</string>
   <string name="ChangeRecoveryEmail">Cambia e-mail di recupero</string>
   <string name="ChannelAddAdmin">Aggiungi amministratore</string>
   <string name="ChannelAddMembers">Aggiungi membri</string>
@@ -231,7 +231,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ChannelEdit">Modifica</string>
   <string name="ChannelEditor">Amministratore</string>
   <string name="ChannelInviteLinkTitle">Link di invito</string>
-  <string name="ChannelInviteViaLink">Invita via link</string>
+  <string name="ChannelInviteViaLink">Invita tramite link</string>
   <string name="ChannelJoin">UNISCITI</string>
   <string name="ChannelJoinTo">Vuoi unirti al canale \'%1$s\'?</string>
   <string name="ChannelJoined">Ti sei unito a questo canale</string>
@@ -269,7 +269,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ChannelNotifyMembersInfoOn">I post saranno notificati ai membri</string>
   <string name="ChannelPhotoEditNotification">Il canale %1$s ha aggiornato la foto</string>
   <string name="ChannelPrivate">Canale privato</string>
-  <string name="ChannelPrivateInfo">È possibile unirsi ai canali privati solo via link di invito.</string>
+  <string name="ChannelPrivateInfo">È possibile unirsi ai canali privati solo tramite link di invito.</string>
   <string name="ChannelPrivateLinkHelp">Le persone possono unirsi al tuo canale seguendo questo link. Puoi revocare il link in ogni momento.</string>
   <string name="ChannelPublic">Canale pubblico</string>
   <string name="ChannelPublicEmptyUsername">Per favore scegli un link per il tuo canale pubblico, in modo che possa essere trovato nella ricerca e condiviso con altri.\n\nSe non sei interessato, ti consigliamo di creare un canale privato.</string>
@@ -308,7 +308,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ClearButton">Cancella</string>
   <string name="ClearHistory">Cancella cronologia </string>
   <string name="ClearHistoryCache">Elimina dalla cache</string>
-  <string name="ClearMediaCache">Svuota cache</string>
+  <string name="ClearMediaCache">Vuota cache</string>
   <string name="ClearOtherSessionsHelp">Esce da tutti i dispositivi tranne questo.</string>
   <string name="ClearRecentEmoji">Cancellare le emoji recenti?</string>
   <string name="ClearSearch">Cancellare la cronologia di ricerca?</string>
@@ -404,7 +404,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="EncryptedDescription4">Nessun inoltro</string>
   <string name="EncryptedDescriptionTitle">Chat segrete:</string>
   <string name="EncryptedPlaceholderTitleIncoming">%s ti ha invitato a unirti ad una chat segreta.</string>
-  <string name="EncryptedPlaceholderTitleOutgoing">Hai invitato %s a unirti ad una chat segreta.</string>
+  <string name="EncryptedPlaceholderTitleOutgoing">Hai invitato %s a unirsi ad una chat segreta.</string>
   <string name="EncryptionKey">Chiave di crittografia</string>
   <string name="EncryptionKeyDescription">Questa immagine e il testo sono derivati dalla chiave di crittografia per questa chat segreta con <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>Se sono uguali sul dispositivo di <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, la crittografia end-to-end è garantita.<![CDATA[<br><br>]]>Ulteriori informazioni su telegram.org</string>
   <string name="EncryptionKeyLink">https://telegram.org/faq/it#chat-segrete</string>
@@ -548,7 +548,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="InviteLink">Link di invito</string>
   <string name="InviteText">Ehi, è il momento di passare a Telegram: https://telegram.org/dl</string>
   <string name="InviteToChannelError">Spiacenti, non puoi aggiungere questo utente al canale a causa delle sue impostazioni di privacy.</string>
-  <string name="InviteToGroupByLink">Invita nel gruppo via Link</string>
+  <string name="InviteToGroupByLink">Invita nel gruppo tramite link</string>
   <string name="InviteToGroupError">Spiacenti, non puoi aggiungere questo utente al gruppo a causa delle sue impostazioni di privacy.</string>
   <string name="InviteUser">Questo utente non ha ancora Telegram, vuoi invitarlo?</string>
   <string name="IsRecordingAudio">%1$s sta registrando un audio...</string>
@@ -621,7 +621,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="LocalAudioCache">Messaggi vocali</string>
   <string name="LocalCache">Altri file</string>
   <string name="LocalDatabase">Database locale</string>
-  <string name="LocalDatabaseClear">Eliminare i messaggi salvati nella cache?</string>
+  <string name="LocalDatabaseClear">Cancellare i messaggi salvati nella cache?</string>
   <string name="LocalDatabaseInfo">Svuotando il database locale, verranno cancellati i messaggi nella cache e il database verrà compresso per risparmiare spazio. Telegram ha bisogno di alcuni dati per funzionare, quindi il database non sarà azzerato.\n\nQuesta operazione può richiedere alcuni minuti.</string>
   <string name="LocalDocumentCache">Documenti</string>
   <string name="LocalMusicCache">Musica</string>
@@ -772,7 +772,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="NotificationGroupKickYou">%1$s ti ha rimosso dal gruppo \'%2$s\'</string>
   <string name="NotificationGroupLeftMember">%1$s ha lasciato il gruppo \'%2$s\'</string>
   <string name="NotificationInvitedToGroup">%1$s ti ha invitato nel gruppo \'%2$s\'</string>
-  <string name="NotificationInvitedToGroupByLink">%1$s si è unito al gruppo \'%2$s\' via link di invito</string>
+  <string name="NotificationInvitedToGroupByLink">%1$s si è unito al gruppo \'%2$s\' tramite link di invito</string>
   <string name="NotificationMessageAudio">%1$s ti ha inviato un messaggio vocale</string>
   <string name="NotificationMessageContact">%1$s ha condiviso un contatto con te</string>
   <string name="NotificationMessageDocument">%1$s ti ha inviato un file</string>
