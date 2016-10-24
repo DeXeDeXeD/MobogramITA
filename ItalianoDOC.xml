@@ -1339,7 +1339,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="Exit">Esci</string>
   <string name="FavoriteEmojis">Emoji preferiti</string>
   <string name="FavoriteEmojisDetail">Aggiungi la scheda delle emoji preferite alla scheda delle emoji. Puoi aggiungere o eliminare le tue emoji dai preferiti tenendo premuto su di esse</string>
-  <string name="FavoriteMessages">Mesaggi preferiti</string>
+  <string name="FavoriteMessages">Messaggi preferiti</string>
   <string name="FavoriteStickers">Sticker preferiti</string>
   <string name="FavoriteStickersDetail">Aggiungi la scheda degli sticker preferiti alla scheda degli sticker. Puoi aggiungere o eliminare gli sticker dai preferiti tenendo premuto sull\'icona.</string>
   <string name="FavoriteStickersEditModeAlert">Modalità di modifica degli sticker preferiti attivata.\nOra tocca sullo sticker per aggiungerlo o eliminarlo dai preferiti.\nTieni premuto sull\'icona della scheda dei preferiti per uscire da questa modalità.</string>
