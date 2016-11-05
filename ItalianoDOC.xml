@@ -1289,7 +1289,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="About">Info</string>
   <string name="AccessingMethod">Metodo di accesso</string>
   <string name="AccessingMethodDetail">Per accedere alle tue chat nascoste, tieni premuto sull\'elemento selezionato ed inserisci la password nel campo vuoto.</string>
-  <string name="AdIntentsAlert">Attenzione: questa richiesta è stata inviata da una delle tue app, e Mobogram non ne ha nulla a che fare. \nSe questa richiesta è stata inviata senza il tuo permesso e ti infastidisce, devi trovare l'applicazione che manda anonimamente la richiesta e disinstallarla.
+  <string name="AdIntentsAlert">Attenzione: questa richiesta è stata inviata da una delle tue app, e Mobogram non ne ha nulla a che fare. \nSe questa richiesta è stata inviata senza il tuo permesso e ti infastidisce, devi trovare l'applicazione che manda anonimamente la richiesta e disinstallarla.</string>
   <string name="AdIntentsAppAlert">Attenzione: questa richiesta è stata inviata dall'applicazione seguente: \n\n\"%1$s\" \n\nSe quest'applicazione tenta di inviare troppe richieste irritanti, puoi disinstallarla premendo il tasto \"Disinstalla %1$s\".</string>
   <string name="AdIntentsMoboplusAlert">C'è un'opzione in Moboplus che ti permette di trovare le applicazioni che tentano di inviare richieste irritanti. \n Per accedere a questa opzione, premi il pulsante \"Applicazioni moleste\".</string>
   <string name="AdIntentsMoboplusButton">Applicazioni moleste</string>
