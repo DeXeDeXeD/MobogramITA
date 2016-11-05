@@ -896,7 +896,6 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="Page1Title">Mobogram</string>
   <string name="Page2Message"><![CDATA[<b>Telegram</b>]]> consegna i messaggi più<![CDATA[<br/>]]>velocemente di qualsiasi altra app.</string>
   <string name="Page2Title">Veloce</string>
-
   <string name="Page3Message"><![CDATA[<b>Telegram</b>]]> sarà sempre gratuito.<![CDATA[<br/>]]>Nessuna pubblicità. Nessun abbonamento.</string>
   <string name="Page3Title">Gratuito</string>
   <string name="Page4Message"><![CDATA[<b>Telegram</b>]]> protegge i tuoi messaggi<![CDATA[<br/>]]>dagli attacchi degli hacker.</string>
@@ -1008,7 +1007,6 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ResetAccountCancelledAlert">I tuoi tentativi recenti di ripristinare questo account sono stati annullati dal suo utente attivo. Per favore riprova tra 7 giorni.</string>
   <string name="ResetAccountInfo">Dato che l\'account <![CDATA[<b>]]>%1$s<![CDATA[</b]]> è attivo e protetto da una password, lo elimineremo tra 1 settimana per motivi di sicurezza.\n\nPuoi annullare questo processo in qualsiasi momento.</string>
   <string name="ResetAccountStatus">Sarai in grado di ripristinare il tuo account tra:</string>
-
   <string name="ResetAllNotifications">Ripristina tutte le notifiche</string>
   <string name="ResetMyAccount">RIPRISTINA IL MIO ACCOUNT</string>
   <string name="ResetMyAccountText">Perderai tutte le chat e i messaggi, insieme ai media e ai file condivisi, se procederai a ripristinare il tuo account.</string>
@@ -1160,7 +1158,6 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="SystemRoot">Root di sistema</string>
   <string name="TapHereGifs">Premi qui per accedere alle GIF salvate</string>
   <string name="TelegramFaq">Domande frequenti</string>
-  <string name="TelegramFAQ">Domande frequenti</string>
   <string name="TelegramFaqUrl">https://telegram.org/faq/it</string>
   <string name="TerminateAllSessions">Termina le altre sessioni</string>
   <string name="TerminateSessionInfo">Premi su una sessione per terminarla.</string>
@@ -1292,6 +1289,10 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="About">Info</string>
   <string name="AccessingMethod">Metodo di accesso</string>
   <string name="AccessingMethodDetail">Per accedere alle tue chat nascoste, tieni premuto sull\'elemento selezionato ed inserisci la password nel campo vuoto.</string>
+  <string name="AdIntentsAlert">Attenzione: questa richiesta è stata inviata da una delle tue app, e Mobogram non ne ha nulla a che fare. \nSe questa richiesta è stata inviata senza il tuo permesso e ti infastidisce, devi trovare l'applicazione che manda anonimamente la richiesta e disinstallarla.
+  <string name="AdIntentsAppAlert">Attenzione: questa richiesta è stata inviata dall'applicazione seguente: \n\n\"%1$s\" \n\nSe quest'applicazione tenta di inviare troppe richieste irritanti, puoi disinstallarla premendo il tasto \"Disinstalla %1$s\".</string>
+  <string name="AdIntentsMoboplusAlert">C'è un'opzione in Moboplus che ti permette di trovare le applicazioni che tentano di inviare richieste irritanti. \n Per accedere a questa opzione, premi il pulsante \"Applicazioni moleste\".</string>
+  <string name="AdIntentsMoboplusButton">Applicazioni moleste</string>
   <string name="AddChatToCategory">Aggiungi chat alla categoria</string>
   <string name="AddContactHelp">Inserisci il numero con il prefisso del Paese, senza zeri all\'inizio.\n\nQuesto utente deve avere Telegram per poter essere aggiunto alla lista dei contatti.</string>
   <string name="AddMessageToCategory">Aggiungi messaggio alla categoria</string>
@@ -1369,10 +1370,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ContactsChanges">Aggiornamenti contatti</string>
   <string name="CopyAllText">Copia tutto</string>
   <string name="CopyCaption">Copia didascalia</string>
-
-
   <string name="CopyPortionOfText">Copia una porzione del testo</string>
-
   <string name="CopyTransmitterName">Copia il nome del mittente</string>
   <string name="CopyTransmitterNameDetail">Quando copi più messaggi, il mittente verrà aggiunto al messaggio copiato.</string>
   <string name="CountChatsInsteadOfMessages">Conta le chat invece dei messaggi</string>
@@ -1415,8 +1413,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="DownloadManager">Gestore download</string>
   <string name="DownloadManagerScheduler">Pianificazione gestore download</string>
   <string name="DownloadManagerSettings">Impostazioni gestore download</string>
-    <string name="DownloadMoboplus">Scarica Moboplus</string>
-
+  <string name="DownloadMoboplus">Scarica Moboplus</string>
   <string name="DownloadSettings">Opzioni di download</string>
   <string name="Downloaded">Scaricati</string>
   <string name="DownloadedCount">%2$s su %1$s scaricati</string>
@@ -1452,6 +1449,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="FileManager">Gestore file</string>
   <string name="Files">File</string>
   <string name="FilesAddedToDownloadList">File aggiunti alla lista dei download</string>
+  <string name="FirstMobogram">Primo Mobogram</string>
   <string name="FloatingButton">Pulsante fluttuante (nuovo messaggio)</string>
   <string name="Font">Carattere</string>
   <string name="FontApplied">Font applicato!</string>
@@ -1501,6 +1499,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="HowManyMessagesToBeDownloaded">Messaggi da scaricare</string>
   <string name="Indigo">Indaco</string>
   <string name="IranSans">IRAN Sans</string>
+  <string name="InvalidAccessToken">Hai inserito un token non valido.</string>
   <string name="IranSansBold">IRAN Sans Bold</string>
   <string name="IranSansLight">IRAN Sans Light</string>
   <string name="IranSansMedium">IRAN Sans Medium</string>
@@ -1518,6 +1517,9 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="LeaveWithoutDelete">Abbandona con possibilità di ritorno</string>
   <string name="LightGreen">Verde chiaro</string>
   <string name="Links">Link</string>
+  <string name="LoginWithBotToken">Accedi tramite bot token.</string>
+  <string name="LoginWithBotTokenLimits">Nota: \nUsa il bot ufficiale @BotFather per creare un nuovo bot ed inserisci il token del bot per accedere. \n\nI bot non sono come gli account classici. Hanno alcune limitazioni. Ad esempio: \n- Non hanno accesso ai contatti; \n- Non possono unirsi a gruppi o canali (a meno che un admin li aggiunga); \n- Possono chattare solo con gli utenti che li hanno avviati; \n- I messaggi inviati non hanno la doppia spunta; \n\n- La lista delle chat è vuota al primo accesso.</string>
+  <string name="LoginWithPhoneNumber">Accedi tramite numero di telefono.</string>
   <string name="LongPressOn">Tieni premuto su...</string>
   <string name="LongPressOnItem">Tieni premuto su %s Item -UC</string>
   <string name="LongPressOnSomething">Tieni premuto su %s</string>
@@ -1571,7 +1573,6 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="NoSelectedTab">Nessuna selezione effettuata</string>
   <string name="NoSharedGif">Condividi GIF in questa chat e puoi ritrovarle su tutti i tuoi dispositivi.</string>
   <string name="NoSpecificContact">Nessun contatto specifico.\nAggiungi contatti con il pulsante in alto a destra.</string>
-
   <string name="NoUnreadHelp">Nessun messaggio \'da leggere\'</string>
   <string name="NotCategorized">Senza categoria</string>
   <string name="NotCategorizedMessages">Messaggi senza categoria</string>
@@ -1630,6 +1631,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ScheduleDownloads">Pianifica download</string>
   <string name="SearchButton">Pulsante ricerca</string>
   <string name="SearchMembers">Cerca membri</string>
+  <string name="SecondMobogram">Secondo Mobogram</string>
   <string name="SelectCategory">Seleziona categoria</string>
   <string name="SelectChats">Seleziona chat</string>
   <string name="SelectMessages">Seleziona messaggi</string>
@@ -1714,6 +1716,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="StartAllDownloads">Comincia tutti i download</string>
   <string name="StartDownloadService">AVVIA IL DOWNLOAD</string>
   <string name="StartDownloading">Avvia il download</string>
+  <string name="StartTextBot">Inserisci il token del tuo bot.</string>
   <string name="StartTime">Dalle</string>
   <string name="StickerAddedToFavorites">Sticker aggiunto ai preferiti.</string>
   <string name="StickerRemoveFromFavoritesAlert">Questo è uno sticker preferito.\nSicuro di voler rimuoverlo dai preferiti?</string>
@@ -1734,12 +1737,15 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="Telegram">Telegram</string>
   <string name="ThemeChangedSuccessful">Tema modificato con successo.\nL\'app verrà riavviata.</string>
   <string name="Themes">Temi</string>
+  <string name="ThirdMobogram">Terzo Mobogram</string>
   <string name="TouchOnContactAvatar">Tap sull\'immagine del contatto</string>
   <string name="TouchOnGroupAvatar">Tap sull\'immagine del gruppo o canale</string>
   <string name="TurnOff">Spegni</string>
-  <string name="TurnOffAlert">Sei sicuro di voler spegnere Mobogram? Quando Mobogram è spento, taglia completamente la connessione a internet e non può inviare o ricevere messaggi.</string>
+  <string name="TurnOffAlert">Sei sicuro di voler spegnere Mobogram? \nQuando Mobogram è spento, taglia completamente la connessione a internet e non può inviare o ricevere messaggi.</string>
   <string name="TurnOffWifiOnEnd">Spegni il wifi alla fine</string>
+  <string name="TurnOn">Accendi</string>
   <string name="TurnOnWifiOnStart">Accendi il wifi all\'avvio</string>
+  <string name="UninstallApp">Disinstalla %s</string>
   <string name="Unread">Da leggere</string>
   <string name="UnreadMuted">Da leggere (silenziati)</string>
   <string name="UnreadUnmuted">Da leggere (non silenziati)</string>
@@ -1768,12 +1774,13 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="Yekan">Yekan -UT</string>
   <string name="YouCannotHideMoboSettingsItem">Non è possibile nascondere le impostazioni di Mobogram.</string>
   <string name="YouMustSelectAtLeastOne">Devi selezionarne almeno una.</string>
-  <string name="about_channel">@IATAlliance</string>
-  <string name="about_comment">Italian Admin Telegram Alliance</string>
+  <string name="YourToken">Il tuo token</string>
+  <string name="about_channel">Open Telegram Italia</string>
+  <string name="about_comment">Entra e scopri tutti i segreti di Mobogram!</string>
   <string name="about_content_rights_reserved">CC BY-SA</string>
   <string name="about_products">Altre app</string>
   <string name="about_title_contact_us">Contattaci</string>
-  <string name="about_title_mail_us">info@iata.ovh</string>
+  <string name="about_title_mail_us">@OpenTelegramItalia</string>
   <string name="about_title_powered_by">Powered by Telegram</string>
   <string name="added_photo">Ha aggiunto una foto al profilo</string>
   <string name="added_you">Ti ha aggiunto ai suoi contatti</string>
@@ -1832,6 +1839,7 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="DownloadManagerHelp">Qui puoi mettere in lista tutti i tuoi download e controllarne i progressi.</string>
   <string name="DownloadMobo2">Scarica gratis Mobogram 2</string>
   <string name="DownloadMobo2Help">Questa feature ti permette di avere due account Telegram distinti. Per usufruirne devi scaricare gratis Mobogram 2, chiedi in @OpenTelegramItalia e saremo lieti di darti una mano.</string>
+  <string name="DownloadMobo3">Scarica gratis Mobogram 3</string>
   <string name="DrawOverOtherAppsPermission">Per attivare la sequenza di sblocco su Android 6+, Mobogram necessita del permesso \"spostamento su altre app\". Premi sul pulsante a destra e concedi il permesso.</string>
   <string name="DrawingCleanerHelp">Cancella tutto, lascia solo il colore di sfondo.</string>
   <string name="DrawingHelp">- Per modificare il colore di sfondo tieni premuto il colore desiderato;\n- Per modificare la dimensione dei caratteri sulle opzioni a sinistra tieni premuto sui pulsanti a sinistra;\n- Clicca l\'icona in alto a sinistra, per la modalità a schermo intero.</string>
@@ -1860,9 +1868,11 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ReportProblemHelpDetail8">Sì, questa limitazione è imposta al tuo numero, cancellare l\'account o usare un altro programma non risolverà il problema.</string>
   <string name="ReportProblemHelpDetail9">Quanto ci mettono a rispondermi?</string>
   <string name="ReportSpamEmailContent">Salve, qualcuno mi ha segnalato per spam erroneamente.\nEcco il mio numero di telefono: %1$s\n\nGrazie.</string>
+  <string name="Second">Secondo</string>
   <string name="SeparateMutualContactsHelp">I tuoi contatti (di cui possiedi il numero) sono distinti dagli altri utenti grazie ad un\'icona. Puoi disabilitare questa feature dalle impostazioni di Mobogram.</string>
   <string name="ShowThisUserMessagesHelp">Per visualizzare solo i messaggi di uno specifico utente, tieni premuto sulla sua foto.</string>
   <string name="SpecificContactHelp">Per permettere a Mobogram di vedere lo stato dei contatti specifici devi condividere con loro l\'ultimo accesso (altrimenti potrai vedere se sono in linea solo mentre scrivono qualcosa a te o in un gruppo).</string>
+  <string name="Third">Terzo</string>
   <string name="ThisContactWasSelectedBefore">Questo contatto è già stato selezionato</string>
   <string name="WelcomeMessage">Benvenuto\nTi ringrazio per aver scelto questa traduzione, revisionata da @DeXeD partendo dal lavoro di @OpenTelegramItalia e Fantaknight.</string>
   <string name="auth_google_play_services_client_facebook_display_name">FACEBOOK</string>
