@@ -1857,13 +1857,13 @@ La traduzione è disponibile su Github al link https://github.com/DeXeDeXeD/Mobo
   <string name="ProForwardHelp">Con l\'inoltro pro è possibile modificare la descrizione dei media o il testo del messaggio prima di inviarlo a più contatti, gruppi o canali.\nIl contenuto originale è visualizzato nella parte superiore, il messaggio modificato verrà inviato in forma anonima e senza virgolette.</string>
   <string name="ReportProblemHelpDetail1">Sei stato limitato?</string>
   <string name="ReportProblemHelpDetail10">Il tempo di attesa è variabile.</string>
-  <string name="ReportProblemHelpDetail11">Ricorda che IATA offre sicurezza e protezione. @IATAlliance e iata.ovh per maggiori informazioni</string>
-  <string name="ReportProblemHelpDetail12">Ti piace informarti su tutto ciò che gira intorno a Telegram e ai suoi client? Ti serve un aiuto di qualsiasi genere? @OpenTelegramItalia è la miglior community che offre assistenza riguardo Telegram a 360°</string>
+  <string name="ReportProblemHelpDetail11">Puoi trovare i migliori gruppi, canali e bot di Telegram su @OTINetwork.</string>
+  <string name="ReportProblemHelpDetail12">Ti piace informarti su tutto ciò che gira intorno a Telegram e ai suoi client? Ti serve un aiuto di qualsiasi genere? @OpenTelegramItalia è la miglior community che offre assistenza riguardo Telegram a 360°.</string>
   <string name="ReportProblemHelpDetail2">Dopo un certo numero di segnalazioni per spam, Telegram impone dei limiti al tuo account: puoi inviare messaggi solo ai tuoi contatti. Se è la prima volta che ti capita, il tuo account verrà sbloccato in circa una settimana. Sarai limitato per più tempo (o per sempre) se continui a infastidire in giro.</string>
   <string name="ReportProblemHelpDetail3">Cosa devo fare?</string>
   <string name="ReportProblemHelpDetail4">Non infastidire la gente che non conosci e non essere molesto nei gruppi. Non aggiungere ai gruppi gente che non conosci.</string>
   <string name="ReportProblemHelpDetail5">Sono sicuro che queste limitazioni al mio account sono state imposte per errore.</string>
-  <string name="ReportProblemHelpDetail6">Scrivi a spam@telegram.org con oggetto "SPAM" includendo il numero di telefono e il perché pensi di essere stato segnalato.\nDa bravi sviluppatori, abbiamo già preparato per te un\'email.\nUsa l\'icona dell\'email in alto a destra per mandarla direttamente a Telegram.</string>
+  <string name="ReportProblemHelpDetail6">Scrivi a spam@telegram.org con oggetto "SPAM" includendo il numero di telefono e il perché pensi di essere stato segnalato.\nDa bravi sviluppatori, abbiamo già preparato per te un\'email. \nUsa l\'icona dell\'email in alto a destra per mandarla direttamente a Telegram.</string>
   <string name="ReportProblemHelpDetail7">Dopo aver cancellato l\'account Telegram il problema rimane?</string>
   <string name="ReportProblemHelpDetail8">Sì, questa limitazione è imposta al tuo numero, cancellare l\'account o usare un altro programma non risolverà il problema.</string>
   <string name="ReportProblemHelpDetail9">Quanto ci mettono a rispondermi?</string>
